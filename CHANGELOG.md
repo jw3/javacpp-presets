@@ -1,4 +1,5 @@
 
+ * Introduce platform artifacts that depend on binaries for all available platforms and work with any build system (sbt, Gradle, M2Eclipse, etc)
  * Make Caffe work on CPU-only machines ([issue #219](https://github.com/bytedeco/javacpp-presets/issues/219))
  * Fix loading issue with `opencv_face` ([issue bytedeco/javacv#470](https://github.com/bytedeco/javacv/issues/470)
  * Fix presets for CUDA 7.5 on the `linux-ppc64le` platform
